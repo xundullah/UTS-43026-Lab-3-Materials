@@ -21,13 +21,12 @@ Let's explore these valuable resources! ⚡
 |--------|------------|-------------|--------|----------------|
 | [**Google Dataset Search**](https://datasetsearch.research.google.com/) | Miscellaneous | Google | Free (some paid) | [Global Electricity Consumption Patterns](https://datasetsearch.research.google.com/search?query=global%20electricity%20consumption%20patterns) |
 | [**Kaggle**](https://www.kaggle.com/datasets) | Miscellaneous | Kaggle | Free (registration required) | [Household Electric Power Consumption Dataset](https://www.kaggle.com/datasets/uciml/electric-power-consumption-data-set) |
-| [**Data.gov**](https://www.data.gov/) | Government | U.S. Federal Government | Free | [State Energy Data System (SEDS)](https://catalog.data.gov/dataset/state-energy-data-system-seds-complete) |
+| [**Data.gov**](https://www.data.gov/) | Government | U.S. Federal Government | Free | [Electricity Data and Statistics Application Programming Interface (API)](https://catalog.data.gov/dataset/electricity-data-and-statistics-application-programming-interface-api) |
 | [**Open Power System Data**](https://open-power-system-data.org/) | Energy | European Open Energy Initiative | Free | [Hourly Power Generation by Fuel Type](https://data.open-power-system-data.org/time_series/) |
 | [**Global Solar Atlas**](https://globalsolaratlas.info/) | Renewable Energy | World Bank | Free | [Global Solar Atlas Data](https://globalsolaratlas.info/downloads/world) |
 | [**NOAA Climate Data**](https://www.ncdc.noaa.gov/data-access) | Weather | National Oceanic and Atmospheric Administration | Free | [Climate Data Online](https://www.ncdc.noaa.gov/cdo-web/) |
 | [**IRENA Data Portal**](https://www.irena.org/Statistics) | Renewable Energy | International Renewable Energy Agency | Free | [Renewable Capacity Statistics](https://www.irena.org/Statistics/View-Data-by-Topic/Capacity-and-Generation/Technologies) |
 | [**EIA Open Data**](https://www.eia.gov/opendata/) | Energy & Load | U.S. Energy Information Administration | Free | [Hourly Electric Grid Monitor](https://www.eia.gov/electricity/gridmonitor/) |
-| [**NYC Open Data**](https://opendata.cityofnewyork.us/) | Urban Load | New York City Government | Free | [Electricity Consumption by Zip Code](https://data.cityofnewyork.us/Environment/Electricity-Consumption-by-Zip-Code-2010/74cu-ncm4) |
 | [**Australian Energy Market Operator (AEMO)**](https://www.aemo.com.au/) | Energy | AEMO | Free | [NEM Data Dashboard](https://www.aemo.com.au/Energy-systems/Electricity/National-Electricity-Market-NEM/Data-NEM) |
 | [**FRED Economic Data (Power Consumption)**](https://fred.stlouisfed.org/) | Industrial Load | Federal Reserve Bank | Free | [Industrial Power Generation Data](https://fred.stlouisfed.org/series/IPG2211A2N) |
 
@@ -52,7 +51,7 @@ Let's explore these valuable resources! ⚡
 ### **3️⃣ Data.gov**  
 🔹 **What it offers:** Official U.S. government data repository featuring energy and environment-related datasets.  
 🔹 **Why use it?** Ideal for analyzing energy usage by state, region, or sector.  
-🔹 **Example dataset:** [State Energy Data System (SEDS)](https://catalog.data.gov/dataset/state-energy-data-system-seds-complete).  
+🔹 **Example dataset:** [Electricity Data and Statistics Application Programming Interface (API)](https://catalog.data.gov/dataset/electricity-data-and-statistics-application-programming-interface-api).
 
 ---
 
@@ -91,14 +90,7 @@ Let's explore these valuable resources! ⚡
 
 ---
 
-### **9️⃣ NYC Open Data**  
-🔹 **What it offers:** Detailed energy consumption datasets for New York City.  
-🔹 **Why use it?** Useful for analyzing **residential and urban power demand**.  
-🔹 **Example dataset:** [Electricity Consumption by Zip Code](https://data.cityofnewyork.us/Environment/Electricity-Consumption-by-Zip-Code-2010/74cu-ncm4).  
-
----
-
-### **🔟 Australian Energy Market Operator (AEMO)**  
+### **9️⃣ Australian Energy Market Operator (AEMO)**  
 🔹 **What it offers:** Real-time and historical data on Australia's electricity markets.  
 🔹 **Why use it?** Useful for grid stability, demand prediction, and renewable energy forecasting.  
 🔹 **Example dataset:** [NEM Data Dashboard](https://www.aemo.com.au/Energy-systems/Electricity/National-Electricity-Market-NEM/Data-NEM).  
@@ -109,4 +101,6 @@ Let's explore these valuable resources! ⚡
 
 🔗 [GitHub Repository for Energy Data]([https://github.com/example-energy-datasets](https://github.com/xundullah/UTS-43026-Lab-3-Materials/))  
 🔗 [LinkedIn](https://www.linkedin.com/in/raihanbinmofidul/)  
+
+
 📩 **Need help?** Reach out for dataset recommendations or project ideas!  
