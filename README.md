@@ -8,7 +8,7 @@
 
 ## **🔍 Overview**  
 
-In **UTS-43026-Lab-3-Materials**, I, **Raihan Bin Mofidul**, a **PhD Student & Teaching Assistant** at the **University of Technology Sydney (UTS), Sydney, Australia**, and a **Research Assistant at the Connectivity Innovation Network (CIN), NSW, Australia**, will guide you in finding the most relevant **data resources** for your projects.  
+In **UTS-43026-Lab-3-Materials**, I will guide you in finding the most relevant **data resources** for your projects.  
 
 Whether you're working on:  
 ✅ **Conventional or renewable energy generation analysis**  
