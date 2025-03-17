@@ -103,4 +103,8 @@ Let's explore these valuable resources! ⚡
 🔗 [LinkedIn](https://www.linkedin.com/in/raihanbinmofidul/)  
 
 
-📩 **Need help?** Reach out for dataset recommendations or project ideas!  
+📩 **Need help?** Reach out for dataset recommendations or project ideas and Now we will explore some data resources and their work with kaggle! 
+
+https://www.kaggle.com/datasets/pythonafroz/renewable-power-generation-and-weather-conditions/data
+https://www.kaggle.com/datasets/jorgesandoval/wind-power-generation
+https://www.kaggle.com/datasets/albertovidalrod/electricity-consumption-uk-20092022/data  
