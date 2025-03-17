@@ -99,7 +99,7 @@ Let's explore these valuable resources! ⚡
 
 ## **📬 Contact & Learn More**  
 
-🔗 [GitHub Repository for Energy Data]([https://github.com/example-energy-datasets](https://github.com/xundullah/UTS-43026-Lab-3-Materials/))  
+🔗 [GitHub Repository for Energy Data]([https://github.com/example-energy-datasets](https://github.com/xundullah/UTS-43026-Lab-3-Materials/). 
 🔗 [LinkedIn](https://www.linkedin.com/in/raihanbinmofidul/)  
 
 
